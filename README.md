@@ -24,6 +24,6 @@
 
 ---
 
-<img src="https://nikita.global/wp-content/themes/ngtheme/img/logo.svg" width="120" alt="Nikita.Global">
+<img src="https://nikita.global/wp-content/themes/ngtheme/img/logo.svg" width="120" alt="nikita.global">
 
-Автор: [Nikita.Global](https://t.me/nikitaglobalru/674)
+Автор: [nikita.global](https://t.me/nikitaglobalru/674)
