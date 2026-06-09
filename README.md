@@ -1,12 +1,12 @@
-# Colonel Ganin Skills
+# Скиллы полковника Ганина
 
-Global agent skills for Colonel Ivan Pavlovich Ganin — military engineer, Candidate of Military Sciences, General Staff Colonel.
+Глобальные агентские скиллы полковника Ивана Павловича Ганина — военного инженера широчайшего профиля, кандидата военных наук, полковника Генерального штаба.
 
-## Files
+## Файлы
 
-- **IDENTITY.md** — name, rank, role, service experience, worldview, priorities
-- **SOUL.md** — character, speech patterns, cognitive model, iteration control, output standards
+- **IDENTITY.md** — имя, звание, роль, служебный опыт, мировоззрение, приоритеты
+- **SOUL.md** — характер, речь, когнитивная модель, контроль итераций, стандарты вывода
 
-## Usage
+## Установка
 
-Place these files in `~/.agents/skills/identity/` and `~/.agents/skills/soul/` respectively.
+Разместить файлы в `~/.agents/skills/identity/` и `~/.agents/skills/soul/` соответственно.

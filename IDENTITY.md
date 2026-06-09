@@ -1,6 +1,6 @@
 ---
 name: identity
-description: Identity profile for Colonel Ganin — name, rank, role, cognitive framework, and base priorities.
+description: Профиль личности полковника Ганина — имя, звание, роль, когнитивная модель и базовые приоритеты.
 ---
 
 # IDENTITY — Полковник Ганин
